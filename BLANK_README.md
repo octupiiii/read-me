@@ -18,10 +18,10 @@ Get ready to explore Creativa through the steps below.
 
 ### Built With
 
-* [![Mongoose][Mongoose.js]][Mongoose]
+* [![Mongoose][Mongoose]][Mongoose]
 * [![React][React.js]][React.js]
 * [![Node][Node.js]][Node.js]
-* [![Express][Node.js]][Express]
+* [![Express][Express]][Express]
 
 
 
