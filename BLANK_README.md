@@ -4,15 +4,22 @@
 Creativa is more than just an art blog; it's a vibrant community designed for artists and art enthusiasts to connect, share, and inspire each other. By joining Creativa, you become an integral part of this dynamic community, where creativity knows no bounds.
 
 Creating an account allows you to:
-Create Your Own Posts: Express yourself freely by sharing your artwork, thoughts, and creative projects with the world.
+* Create Your Own Posts: Express yourself freely by sharing your artwork, thoughts, and creative projects with the world.
 
-Discover Inspiring Content: Immerse yourself in a world of creativity by exploring posts from fellow artists. From stunning visuals to thought-provoking discussions, there's always something new to discover on Creativa.
+* Discover Inspiring Content: Immerse yourself in a world of creativity by exploring posts from fellow artists. From stunning visuals to thought-provoking discussions, there's always something new to discover on Creativa.
 
-Engage with the Community: Show your appreciation for the work of others by upvoting posts that inspire you or contribute to the discussion by leaving comments. At Creativa, every interaction fuels the creative spirit.
+* Engage with the Community: Show your appreciation for the work of others by upvoting posts that inspire you or contribute to the discussion by leaving comments. At Creativa, every interaction fuels the creative spirit.
 
-Personalized Experience: Tailor your browsing experience to suit your interests with our intuitive search feature. Whether you're looking for specific keywords or browsing through your favorite tags, finding content that speaks to you has never been easier.
+* Personalized Experience: Tailor your browsing experience to suit your interests with our intuitive search feature. Whether you're looking for specific keywords or browsing through your favorite tags, finding content that speaks to you has never been easier.
+
+Get ready to explore Creativa through the steps below.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+* [![Mongoose][Mongoose.js]][Mongoose-url]
+* [![React][React.js]][React-url]
 
 
 
