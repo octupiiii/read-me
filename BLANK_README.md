@@ -23,6 +23,38 @@ Get ready to explore Creativa through the steps below.
 * [![Node][Node.js]][Node.js]
 * [![Express][Express]][Express]
 
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/LesterAnthony/creativaFrontend
+   git clone https://github.com/LesterAnthony/creativaBackend
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Change the proxy value in the frontend package.json file to localhost:4000
+
+4. Run:
+   
+   backend:
+   ```sh
+   npm run dev
+   ```
+
+   frontend:
+   ```sh
+   npm start
+   ```
+
+## Render
+https://creativabackend.onrender.com/ 
+https://creativafrontend.onrender.com/ 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- USAGE EXAMPLES -->
 ## Sign Up/Login
 
@@ -77,7 +109,10 @@ Johann James del Rosario - johann_james_delrosario@dlsu.edu.ph
 
 Lester Anthony Sityar Jr. - lester_sityar@dlsu.edu.ph
 
-Project Link: Insert Link!
+Project Link: https://github.com/LesterAnthony/creativaFrontend
+              https://github.com/LesterAnthony/creativaBackend
+              https://creativabackend.onrender.com/
+              https://creativafrontend.onrender.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
