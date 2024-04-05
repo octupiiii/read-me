@@ -18,8 +18,10 @@ Get ready to explore Creativa through the steps below.
 
 ### Built With
 
-* [![Mongoose][Mongoose.js]][Mongoose-url]
-* [![React][React.js]][React-url]
+* [![Mongoose][Mongoose.js]][Mongoose]
+* [![React][React.js]][React.js]
+* [![Node][Node.js]][Node.js]
+* [![Express][Node.js]][Express]
 
 
 
@@ -101,3 +103,8 @@ Here are the resources that have been used throughout the project:
 * [React Icons](https://react-icons.github.io/react-icons/search) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[Mongoose]: https://cdn-icons-png.flaticon.com/512/185/185702.png
+[Express]: https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png
+[Node.js]: https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
