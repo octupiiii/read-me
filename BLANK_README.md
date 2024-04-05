@@ -18,11 +18,10 @@ Get ready to explore Creativa through the steps below.
 
 ### Built With
 
-* <img src="Mongoose" width="100" height="100" alt="Mongoose" />
-* <img src="React.js" width="100" height="100" alt="React.js" />
-* <img src="Node.js" width="100" height="100" alt="Node.js" />
-* <img src="Express" width="100" height="100" alt="Express" /
-
+* [![Mongoose][Mongoose]][Mongoose]
+* [![React][React.js]][React.js]
+* [![Node][Node.js]][Node.js]
+* [![Express][Express]][Express]
 
 <!-- USAGE EXAMPLES -->
 ## Sign Up/Login
