@@ -93,13 +93,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,41 +103,68 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To get started you need to install the raw file
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. After installing the file install all packages to the command line
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   npm install i
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+2. Now run the nodemon package on the command line
+
+  ```sh
+   npm nodemon index.js
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Sign Up/Login
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+  - You can preview the websites but before you can start sharing your artwork and engaging with the community, you need to create an account.
+  - If you already have an account, simply log in to access all the features of our forum
+
+## Posting Artwork
+
+  - Once logged in, you can post your artwork.
+  - Upload an image of your artwork and provide a title, description, and choose appropriate tags to help categorize your artwork.
+
+## Editing Artwork 
+ 
+  - After posting your artwork, you have the option to edit it at any time.
+  - Update the title, description, tags, or even replace the image with an improved version.
+
+## Engaging with the Community
+
+  - Browse through the artwork shared by other members of the community.
+  - Like and comment artwork that inspires you or catches your eye.
+  - Offer constructive criticism to fellow artists, helping them grow and improve their skills.
+
+## Finding Inspiration
+  - Explore different art styles, techniques, and genres showcased on our platform.
+  - Discover new artists and connect with like-minded individuals who share your passion for art.
+
+## Receiving Feedback
+
+  - Be open to receiving feedback on your own artwork.
+  - Embrace constructive criticism as an opportunity for growth and learning.
+  - Engage in meaningful discussions with other members to further develop your artistic skills.
+
+## Additional Resources
+
+  - For more information on how to use specific features or troubleshoot any issues, please contact us.
+  - Stay updated with the latest news, announcements, and events by visiting our blog.
+  - Connect with us on social media platforms to join the conversation and interact with fellow artists.
+
+
+
+
+
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
