@@ -107,4 +107,4 @@ Here are the resources that have been used throughout the project:
 [Mongoose]: https://cdn-icons-png.flaticon.com/512/185/185702.png
 [Express]: https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png
 [Node.js]: https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png
-[React.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png
+[React.js]: https://static-00.iconduck.com/assets.00/react-icon-512x456-5xl7nmtw.png
